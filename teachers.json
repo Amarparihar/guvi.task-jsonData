@@ -1,0 +1,202 @@
+[
+    {
+        "teacherName": "Saleha mam",
+        "subjectsTaught":["English","chemistry"],
+        "favStudents": ["Amar"],
+        "inchargeOf": [{
+            "class": 12,
+            "section": "A"
+        }],
+        "attendence": [
+            {
+                "day": "Monday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Tuesday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Wednesday",
+                "isPresent": false
+            },
+
+            {
+                "day": "Thursday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Friday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Saturday",
+                "isPresent": true
+            }
+        ]
+    },
+
+    {
+        "teacherName": "Sonika mam",
+        "subjectsTaught":["computer science"],
+        "favStudents": ["Amar","Pratik"],
+        "inchargeOf": [{
+            "class": 12,
+            "section": "B"
+        }],
+        "attendence": [
+            {
+                "day": "Monday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Tuesday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Wednesday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Thursday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Friday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Saturday",
+                "isPresent": true
+            }
+        ]
+    },
+
+    {
+        "teacherName": "Mahalle sir",
+        "subjectsTaught":["Physics"],
+        "favStudents": ["Gaurav"],
+        "inchargeOf": [{
+            "class": 10,
+            "section": "A"
+        }],
+        "attendence": [
+            {
+                "day": "Monday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Tuesday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Wednesday",
+                "isPresent": false
+            },
+
+            {
+                "day": "Thursday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Friday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Saturday",
+                "isPresent": false
+            }
+        ]
+    },
+
+    {
+        "teacherName": "Nerkar sir",
+        "subjectsTaught":["Maths"],
+        "favStudents": ["Nayan","DJ"],
+        "inchargeOf": [{
+            "class": 10,
+            "section": "B"
+        }],
+        "attendence": [
+            {
+                "day": "Monday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Tuesday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Wednesday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Thursday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Friday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Saturday",
+                "isPresent": true
+            }
+        ]
+    },
+
+    {
+        "teacherName": "Alvi sir",
+        "subjectsTaught":["English","maths","Physics"],
+        "favStudents": ["Amar","DJ","Pratik"],
+        "attendence": [
+            {
+                "day": "Monday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Tuesday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Wednesday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Thursday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Friday",
+                "isPresent": true
+            },
+
+            {
+                "day": "Saturday",
+                "isPresent": true
+            }
+        ]
+    }
+]

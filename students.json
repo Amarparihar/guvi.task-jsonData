@@ -1,0 +1,367 @@
+[
+    {
+        "studentName": "Amar",
+        "studentClass": [{
+            "class": 12,
+            "section": "A"
+        }],
+        "favSubjects": ["Maths","English","computer science"],
+        "skills": ["sports","Event management"],
+        "favTeacher": "Saleha mam",
+        "feesPaid": [
+            {
+                "date": "10-01-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-02-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-07-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-08-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-09-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-11-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-12-2020",
+                "amount": 1000
+            }
+        ]
+    },
+
+    {
+        "studentName": "Gaurav",
+        "studentClass": [{
+            "class": 12,
+            "section": "B"
+        }],
+        "favSubjects": ["English","chemistry"],
+        "skills": ["sports","dancing"],
+        "favTeacher": "Misalkar sir",
+        "feesPaid": [
+            {
+                "date": "10-01-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-02-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-07-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-08-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-09-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-11-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-12-2020",
+                "amount": 1000
+            }
+        ]
+    },
+
+    {
+        "studentName": "Pratik",
+        "studentClass": [{
+            "class": 12,
+            "section": "A"
+        }],
+        "favSubjects": ["Maths","Physics"],
+        "skills": ["sports","singing"],
+        "favTeacher": "sonika mam",
+        "feesPaid": [
+            {
+                "date": "10-01-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-02-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-07-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-08-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-09-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-11-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-12-2020",
+                "amount": 1000
+            }
+        ]
+    },
+
+    {
+        "studentName": "Nayan",
+        "studentClass": [{
+            "class": 12,
+            "section": "B"
+        }],
+        "favSubjects": ["Maths"],
+        "skills": ["Drama","Dance"],
+        "favTeacher": "Mahalle sir",
+        "feesPaid": [
+            {
+                "date": "10-01-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-02-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-07-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-08-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-09-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-11-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-12-2020",
+                "amount": 1000
+            }
+        ]
+    },
+
+    {
+        "studentName": "Dj",
+        "studentClass": [{
+            "class": 12,
+            "section": "A"
+        }],
+        "favSubjects": ["chemistry","Physics"],
+        "skills": ["sports"],
+        "favTeacher": "Nerkar sir",
+        "feesPaid": [
+            {
+                "date": "10-01-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-02-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-07-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-08-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-09-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-11-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-12-2020",
+                "amount": 1000
+            }
+        ]
+    },
+
+    {
+        "studentName": "Mayur",
+        "studentClass": [{
+            "class": 12,
+            "section": "B"
+        }],
+        "favSubjects": ["Physics"],
+        "skills": ["sports","drama"],
+        "favTeacher": "HOD",
+        "feesPaid": [
+            {
+                "date": "10-01-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-02-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-07-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-08-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-09-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-10-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-11-2020",
+                "amount": 1000
+            },
+            {
+                "date": "10-12-2020",
+                "amount": 1000
+            }
+        ]
+    }
+]
